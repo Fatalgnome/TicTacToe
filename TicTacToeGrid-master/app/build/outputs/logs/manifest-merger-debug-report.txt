@@ -1,102 +1,153 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e978acfb21adac9b12ffc543d96ffea6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\659bfffe6188f8c1ffb07359c196a3df\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\26760cf2d1bb220505a86820fc32942d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bfc9f8dcab83b744bc3cbd0b5a20415e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b1952b66da905c1e7adb1a7ac4c2f5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\997fabdff63d1dbd51f4f7e86f023066\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9164b8a426332519ad13ffa70a13eab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b0f77247f500beb19782aba430e28323\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d7b8fe3a4a29a6d85ccfb35c7befc8c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\19af07edaf5d4aaa1d75cefc409eaeb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bb3ac23baf8732087f775c29f75a1317\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a93e1740b71a19245fa98f2630c919fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\941da91040a5f397e49704ea6152680e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c3b0535eb2d605cd4667e94d49f5b1db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fbf1ef863be96bdc9d1ca3b79225dcfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\29d8a595054a9adfe27e36189a33ea00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e71b577501f0a50e125f4a8eb27bc924\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\347740d2c5a081f85f8cc15924a5cba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f379026572dee6a44826bc1f553eeb22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\27368d6e406864dff924f613dc3d8eee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47d9e406bf4822cf879fb98f1b6a3dec\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\419ed5eb174a28383238dac00918b5fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e98a8e4fcf00f6b69f9d7f34bdfecd2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\656ae788eeb223202b1ac767c4d2d33f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\08c9e4b4dfddc70a6314b7942d352e99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b354551ef7ee30ccca3481d5d3113dfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\21f29f6e3215e2b2547f57a00ae6a236\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d33ea41ddd1499b7ee835d49c727680\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfe80240828b17f29e7ca4837c6100a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2b709cdbefe0eddb4f81f0a41a061fed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\53f3f6d62187331ba85524e7485df607\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\27368d6e406864dff924f613dc3d8eee\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\27368d6e406864dff924f613dc3d8eee\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47d9e406bf4822cf879fb98f1b6a3dec\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47d9e406bf4822cf879fb98f1b6a3dec\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\27368d6e406864dff924f613dc3d8eee\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:7:9-45
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:7:9-45
 	android:allowBackup
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:9:9-40
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:9:9-40
 activity#org.example.tictactoe.MainActivity
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:10:9-18:20
+ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:10:9-18:20
 	android:label
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:12:13-45
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:11:13-41
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:11:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e978acfb21adac9b12ffc543d96ffea6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e978acfb21adac9b12ffc543d96ffea6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\659bfffe6188f8c1ffb07359c196a3df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\659bfffe6188f8c1ffb07359c196a3df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\26760cf2d1bb220505a86820fc32942d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\26760cf2d1bb220505a86820fc32942d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bfc9f8dcab83b744bc3cbd0b5a20415e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bfc9f8dcab83b744bc3cbd0b5a20415e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b1952b66da905c1e7adb1a7ac4c2f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b1952b66da905c1e7adb1a7ac4c2f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\997fabdff63d1dbd51f4f7e86f023066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\997fabdff63d1dbd51f4f7e86f023066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9164b8a426332519ad13ffa70a13eab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9164b8a426332519ad13ffa70a13eab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b0f77247f500beb19782aba430e28323\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b0f77247f500beb19782aba430e28323\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d7b8fe3a4a29a6d85ccfb35c7befc8c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d7b8fe3a4a29a6d85ccfb35c7befc8c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\19af07edaf5d4aaa1d75cefc409eaeb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\19af07edaf5d4aaa1d75cefc409eaeb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bb3ac23baf8732087f775c29f75a1317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bb3ac23baf8732087f775c29f75a1317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a93e1740b71a19245fa98f2630c919fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a93e1740b71a19245fa98f2630c919fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\941da91040a5f397e49704ea6152680e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\941da91040a5f397e49704ea6152680e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c3b0535eb2d605cd4667e94d49f5b1db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c3b0535eb2d605cd4667e94d49f5b1db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fbf1ef863be96bdc9d1ca3b79225dcfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fbf1ef863be96bdc9d1ca3b79225dcfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\29d8a595054a9adfe27e36189a33ea00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\29d8a595054a9adfe27e36189a33ea00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e71b577501f0a50e125f4a8eb27bc924\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e71b577501f0a50e125f4a8eb27bc924\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\347740d2c5a081f85f8cc15924a5cba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\347740d2c5a081f85f8cc15924a5cba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f379026572dee6a44826bc1f553eeb22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f379026572dee6a44826bc1f553eeb22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\27368d6e406864dff924f613dc3d8eee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\27368d6e406864dff924f613dc3d8eee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47d9e406bf4822cf879fb98f1b6a3dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47d9e406bf4822cf879fb98f1b6a3dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\419ed5eb174a28383238dac00918b5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\419ed5eb174a28383238dac00918b5fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e98a8e4fcf00f6b69f9d7f34bdfecd2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e98a8e4fcf00f6b69f9d7f34bdfecd2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\656ae788eeb223202b1ac767c4d2d33f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\656ae788eeb223202b1ac767c4d2d33f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\08c9e4b4dfddc70a6314b7942d352e99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\08c9e4b4dfddc70a6314b7942d352e99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b354551ef7ee30ccca3481d5d3113dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b354551ef7ee30ccca3481d5d3113dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\21f29f6e3215e2b2547f57a00ae6a236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\21f29f6e3215e2b2547f57a00ae6a236\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d33ea41ddd1499b7ee835d49c727680\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d33ea41ddd1499b7ee835d49c727680\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfe80240828b17f29e7ca4837c6100a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfe80240828b17f29e7ca4837c6100a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2b709cdbefe0eddb4f81f0a41a061fed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2b709cdbefe0eddb4f81f0a41a061fed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\53f3f6d62187331ba85524e7485df607\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fatalgnome\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\53f3f6d62187331ba85524e7485df607\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fatalgnome\Documents\PBA Web\Android\Exercises\TicTacToe\TicTacToeGrid-master\app\src\main\AndroidManifest.xml
